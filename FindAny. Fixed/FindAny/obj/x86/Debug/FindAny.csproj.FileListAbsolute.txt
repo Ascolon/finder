@@ -1,0 +1,65 @@
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\bin\Debug\FindAny.exe
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\bin\Debug\FindAny.pdb
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\MainWindow.baml
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\App.g.cs
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny_MarkupCompile.cache
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny.g.resources
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny.Properties.Resources.resources
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny.csproj.GenerateResource.Cache
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny.exe
+C:\Users\Александр\AppData\Local\Temporary Projects\FindAny\obj\x86\Debug\FindAny.pdb
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny.exe
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny.pdb
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\bin\Debug\FindAny.exe
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\bin\Debug\FindAny.pdb
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\MainWindow.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\App.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny_MarkupCompile.cache
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny.g.resources
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny.Properties.Resources.resources
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny.csproj.GenerateResource.Cache
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\Login.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\Login.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\Style\Button.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\App.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\bin\Debug\FindAny.exe.config
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\FirstLevel.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\SecondLevel.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\ThirdLevel.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\FirstLevel.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\SecondLevel.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\ThirdLevel.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\Midlle.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\View\Midlle.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\Answer.baml
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\Answer.g.cs
+C:\Users\Александр\documents\visual studio 2010\Projects\FindAny\FindAny\obj\x86\Debug\FindAny_Content.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\bin\Debug\FindAny.exe.config
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\bin\Debug\FindAny.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\bin\Debug\FindAny.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\Answer.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\Style\Button.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\FirstLevel.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\Login.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\Midlle.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\SecondLevel.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\ThirdLevel.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\App.baml
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\Answer.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\FirstLevel.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\Login.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\Midlle.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\SecondLevel.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\View\ThirdLevel.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny_Content.g.cs
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny.g.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\FindAny. Fixed\FindAny\obj\x86\Debug\FindAny.csproj.GenerateResource.Cache

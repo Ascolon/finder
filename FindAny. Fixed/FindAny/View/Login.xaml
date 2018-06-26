@@ -1,0 +1,90 @@
+﻿<Page x:Class="FindAny.View.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1100" Width="550" Height="400"
+	Title="Login">
+
+    <Border CornerRadius="10" BorderThickness="2" BorderBrush="Transparent">
+        <Grid Background="White">
+            <Grid.Effect>
+                <DropShadowEffect Color="Black" BlurRadius="50"></DropShadowEffect>
+            </Grid.Effect>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40*"/>
+                <RowDefinition Height="60*"/>
+            </Grid.RowDefinitions>
+            <StackPanel VerticalAlignment="Center" Grid.Row="1" >
+                <!--<TextBlock FontSize="20" Margin="0,0,0,20" FontFamily="Segoe UI" FontWeight="ExtraLight" Text="Введите Ваше имя" TextAlignment="Center"></TextBlock>-->
+                <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Top" Name="LevelsBtn"
+                        Margin="0,0,0,20" HorizontalAlignment="Center">
+                    <Button Height="40" 
+                    Width="170" 
+                        Margin="5" Click="SetLevelBtn"
+                        Background="Transparent"
+                    FontSize="20" 
+                    Cursor="Hand" 
+                    FontWeight="SemiBold"  
+                    Foreground="ForestGreen"
+                    Style="{StaticResource Corner}">1</Button>
+                    <Button Height="40" 
+                    Width="170" Click="SetLevelBtn"
+                    FontSize="20" 
+                         Margin="5"
+                        Background="Transparent"
+                    Cursor="Hand" 
+                    FontWeight="SemiBold"  
+                    Foreground="ForestGreen"
+                    Style="{StaticResource Corner}">2</Button>
+                    <Button Height="40" 
+                    Width="170" Click="SetLevelBtn"
+                        Background="Transparent"
+                    FontSize="20" 
+                         Margin="5"
+                    Cursor="Hand" 
+                    FontWeight="SemiBold"  
+                    Foreground="ForestGreen"
+                    Style="{StaticResource Corner}">3</Button>
+                    
+                </StackPanel>
+                <CheckBox Foreground="ForestGreen" VerticalContentAlignment="Center" Margin="0,0,0,10"
+                          FontSize="18"  FontWeight="ExtraLight"
+                          VerticalAlignment="Center"
+                          HorizontalAlignment="Center"
+                          FontFamily="Segoe UI" 
+                          Name="EnableTimer">Включить таймер</CheckBox>
+                <Button Height="40" 
+                    Width="170" 
+                    FontSize="20" 
+                    Cursor="Hand" 
+                    FontWeight="SemiBold"  
+                    Foreground="ForestGreen"
+                    Style="{StaticResource Corner}" Click="SetName">начать</Button>
+                <Button Height="40" 
+                    Width="170" 
+                    FontSize="18" 
+                    Cursor="Hand" Margin="0,20,0,0"
+                    FontWeight="ExtraLight"  
+                    Foreground="ForestGreen" Click="Rating"
+                    Style="{StaticResource Corner}">рейтинг</Button>
+            </StackPanel>
+            <StackPanel>
+                <!--<TextBlock TextAlignment="Center" Margin="0,5,0,0" FontSize="22"
+                           VerticalAlignment="Top" Text="Игра &quot;Найди отличия&quot;" SnapsToDevicePixels="True"></TextBlock>-->
+                <TextBlock TextAlignment="Center" Margin="0,40,0,0" FontSize="16"
+                           VerticalAlignment="Top" Text="Введите Ваше имя и выберете уровень"></TextBlock>
+                <TextBox Height="40"
+                         Width="250"
+                         FontSize="20" 
+                         Name="NamePlayer"
+                     TextAlignment="Center"
+                     Background="Transparent"
+                     BorderBrush="#6633CC" 
+                     BorderThickness="2"
+                     Margin="0,20,0,0"></TextBox>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Page>
